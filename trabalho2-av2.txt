@@ -1,4 +1,4 @@
-
+Aluno: Fernando Augusto de Souza Fonseca         Matricula: 0050014203
 Trabalho 2
 
 #1-Faça um script Shell que receba um nome de arquivo como parâmetro e responda se este arquivo existe ou não.
